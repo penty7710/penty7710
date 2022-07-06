@@ -1,4 +1,13 @@
+## 🌠[Coding Time](https://wakatime.com/@Younger)
+> the projects I'm working on
 
+<!-- ![My stats](https://github-readme-stats.vercel.app/api?username=younger-1&theme=calm&show_icons=true) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younger-1&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6) -->
+
+<div>
+    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=younger-1&theme=calm&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younger-1&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
+</div>
 <h1 align="center">
   Hey, I'm Pety，from Hunan!
 </h1>
@@ -16,7 +25,14 @@
 
 
 
-📈 my github stats
+## 🌠[Coding Time](https://wakatime.com/@Younger)
+> the projects I'm working on
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=penty7710&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<!-- ![My stats](https://github-readme-stats.vercel.app/api?username=younger-1&theme=calm&show_icons=true) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younger-1&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6) -->
+
+<div>
+    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=younger-1&theme=calm&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younger-1&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
+</div>
 
