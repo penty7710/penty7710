@@ -5,9 +5,7 @@
   </a>
 </h1>
 
-<!-- 敲代码的图片 -->
-<div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
-<br>
+<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <!-- 个人资料徽标 -->
 <div align="center">
@@ -49,96 +47,3 @@ I'm Danny Koppenhagen. A Web Developer, Consultant, Author and and Open Source E
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 <br>
-
-
-<!-- wakatime 统计 -->
-<table align="center">
-<tr>
-<td valign="top">  
-  
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    257 commits    ██████████░░░░░░░░░░░░░░░   40.79% 
-🌆 Daytime    161 commits    ██████░░░░░░░░░░░░░░░░░░░   25.56% 
-🌃 Evening    136 commits    █████░░░░░░░░░░░░░░░░░░░░   21.59% 
-🌙 Night      76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.06%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       84 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-Tuesday      79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.54% 
-Wednesday    115 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.25% 
-Thursday     50 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.94% 
-Friday       167 commits    ██████░░░░░░░░░░░░░░░░░░░   26.51% 
-Saturday     71 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.27% 
-Sunday       64 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.16%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   25 mins             ██████████████████████░░░   88.98% 
-HTML                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   11.02%
-
-🔥 Editors: 
-VS Code                  28 mins             █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  28 mins             █████████████████████████   100.0%
-
-```
-
-
- Last Updated on 06/07/2022 02:21:11 UTC
-<!--END_SECTION:waka-->
-</td>
-</tr>
-</table>
-
-<!-- GitHub Activity Graph -->
-<table align="center">
-  <tr>
-    <td colspan="2">
-      <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-<!-- Wakatime Graph-->
-<table>
-  <tr>
-    <td>
-      <img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500"/>
-    </td>
-    <td>
-      <img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500"/>
-    </td>
-  </tr>
-</table>
-
-<!-- Dynamic Heatmap -->
-<table>
-  <tr>
-    <td colspan="2" >
-      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Running/assets/github.svg" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Heatmap/OUT_FOLDER/github.svg" />
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Heatmap/OUT_FOLDER/wakatime.svg" />
-    </td>
-  </tr>
-</table>
-
