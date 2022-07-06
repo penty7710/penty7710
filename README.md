@@ -1,7 +1,7 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);出走半生，归来仍是少年!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%wellcome%2C%to%22my%22world!%22);出走半生，归来仍是少年!&center=true&size=27">
   </a>
 </h1>
 
@@ -20,7 +20,7 @@
 #  🙋 Hello
 <p align="center">
   <samp>
-I'm Danny Koppenhagen. A Web Developer, Consultant, Author and and Open Source Enthusiast from Berlin (Germany).
+ 我叫pety，目前软件工程大三在读，从事JAVA后端开发！
   </samp>
   <br/>
   <br/>
@@ -29,5 +29,5 @@ I'm Danny Koppenhagen. A Web Developer, Consultant, Author and and Open Source E
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=penty7710&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
