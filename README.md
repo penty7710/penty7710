@@ -17,8 +17,10 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=penty7710&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
 </div>
 
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center"><https://raw.githubusercontent.com/penty7710/penty7710/output/github-contribution-grid-snake.svg /></div>
+
+![](https://raw.githubusercontent.com/younger-1/younger-1/output/github-contribution-grid-snake.svg)
+
+
 
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=penty7710&theme=react-dark)](https://github.com/penty7710/github-readme-activity-graph)
