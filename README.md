@@ -24,6 +24,6 @@ I'm Danny Koppenhagen. A Web Developer, Consultant, Author and and Open Source E
   </samp>
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=d-koppenhagen&show_icons=true" alt="Danny Koppenhagens Github Stats"></img>
+  <img src="https://github-readme-stats.vercel.app/api?username=pty7710&show_icons=true" alt="Danny Koppenhagens Github Stats"></img>
 </p>
 
