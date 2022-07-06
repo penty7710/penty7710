@@ -1,12 +1,4 @@
-<!-- 动态打字效果 -->
-<h1 align="center">
-  <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%hello%2C%world!%22);出走半生，归来仍是少年!&center=true&size=27">
-  </a>
-</h1>
 
-
-#  🙋 Hello
 <h1 align="center">
   Hey, I'm Pety，from Hunan!
 </h1>
