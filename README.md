@@ -18,4 +18,4 @@
 </div>
 
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/penty7710/penty7710/contribution-snake/github-contribution-grid-snake.svg" /></div>
+<div align="center"><https://raw.githubusercontent.com/penty7710/penty7710/output/github-contribution-grid-snake.svg /></div>
