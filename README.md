@@ -7,13 +7,9 @@
 
 
 #  🙋 Hello
-<p align="center">
-  <samp>
- My name is pety, from hunan!
-  </samp>
-  <br/>
-  <br/>
-</p>
+<h1 align="center">
+  Hey, I'm Pety，from Hunan!
+</h1>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
